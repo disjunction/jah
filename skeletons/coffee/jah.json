@@ -1,0 +1,4 @@
+{ "jahProject": { "version": "${jahVersion}" }
+, "compileCoffee": true
+, "externalize": { "jah": "jah.js" }
+}
